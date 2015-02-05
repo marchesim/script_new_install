@@ -15,9 +15,9 @@ sudo apt-get install gparted -y
 sudo apt-get install ssh -y
 sudo apt-get install ruby -y
 sudo apt-get install arduino -y
+sudo apt-get install git -y
+sudo apt-get install git-cola -y
 sudo apt-get install mysql-server -y
 sudo apt-get install apache2 libapache2-mod-php5 php5-mysql -y
 sudo apt-get install phpmyadmin -y
-sudo apt-get install git -y
-sudo apt-get install git-cola -y
 exit
