@@ -1,9 +1,6 @@
 # Script per l'installazione di applicazioni utili
 # Prima di eseguire questo script è necessario abilitare i repository "patner di canonical"
 #!/bin/bash
-sudo add-apt-repository ppa:thefanclub/grive-tools
-sudo apt-get update
-sudo apt-get install grive-tools
 sudo apt-get install ubuntu-restricted-extras p7zip -y
 sudo apt-get install openjdk-7-jre icedtea-7-plugin -y
 sudo apt-get install skype -y
