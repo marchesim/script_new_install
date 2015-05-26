@@ -16,7 +16,7 @@ sudo apt-get install build-essential -y
 sudo apt-get install gparted -y
 sudo apt-get install ssh -y
 sudo apt-get install ruby -y
-sudo apt-get install arduino -y
+sudo apt-get install arduino arduino-core -y
 #  sudo apt-get install filezilla -y ****** LENTO CON LE ULTIME VERSIONI DI UBUNTU
 sudo apt-get install bareftp -y
 sudo apt-get install git -y
